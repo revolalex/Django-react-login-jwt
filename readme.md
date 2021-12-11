@@ -16,8 +16,12 @@ The goal of small projectt was to create and back-end login using jwt auth in Dj
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/56839789/144759533-b8d8c8b8-6f9e-49a8-a5e1-8b192b6760d5.gif)
 
+
 ## Back-End
 Django, JWT ...
+
+## Swagger Documentation
+<img width="600" alt="Capture d’écran 2021-12-11 à 16 13 41" src="https://user-images.githubusercontent.com/56839789/145681639-5529edf8-edc5-4bf4-a3f6-06a2c6cf01ff.png">
 
 ## Front-End
 React, Toastify ...
